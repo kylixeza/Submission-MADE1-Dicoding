@@ -5,7 +5,7 @@ Submission MADE(Menjadi Android Developer Expert) ke 1 Dicoding
 </ul>
 <p>Another MADE Submission</p>
 <ol>
-  <li><a href="https://github.com/KylixEza/Submission-MADE1-Dicoding">Submission MADE 1</a></li>
+  <li><a href="https://github.com/KylixEza/Submission-MADE2-Dicoding">Submission MADE 2</a></li>
 </ol>
 
 <p>Custom android UI: </p>
