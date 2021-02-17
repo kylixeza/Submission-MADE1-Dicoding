@@ -1,5 +1,5 @@
 # Submission-MADE1-Dicoding
-
+Submission MADE(Menjadi Android Developer Expert) ke 1 Dicoding
 <ul>
   <li>Android Studio Minimum Version: 4.1.2</li>
 </ul>
